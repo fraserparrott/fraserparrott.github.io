@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Telecom Customer Churn Prediction (Python)
+image: "/posts/churn-feature-importance.png"
 tags: [Python, scikit-learn, Random Forest, Classification]
 ---
 
